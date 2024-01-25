@@ -1,4 +1,4 @@
-# cplus_entrega_ej2
+# cpp_entrega_ej2
 Entrega Ejercicio 2 Laboratorio Computación I
 
 Escribir un programa que lea una cadena de caracteres y le cambie todas las consonantes (tanto mayúsculas como minúsculas) por un espacio (' '). Luego, debe mostrar la cadena resultante por pantalla.
